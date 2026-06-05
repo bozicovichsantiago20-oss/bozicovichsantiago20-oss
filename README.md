@@ -19,6 +19,9 @@ Incluye:
 Sitio principal:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/
 
+Pagina de pago y descarga:
+https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
+
 Hub publico:
 https://bozicovichsantiago20-oss.github.io/
 
