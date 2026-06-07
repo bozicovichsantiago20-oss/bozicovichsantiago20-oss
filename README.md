@@ -46,7 +46,7 @@ Calculadora de descuentos:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/herramientas/calculadora-descuentos-mercado-libre.html
 
 Elegir oferta recomendada:
-https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html
+=github-readme&utm_campaign=bozicovichsantiago20-oss
 
 Respuestas listas:
 https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/comprar.html
